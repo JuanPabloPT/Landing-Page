@@ -183,12 +183,15 @@ body{
  }
 
 #titulo{
-    padding-top: 20px;
+
+    background-color: red;;
+    height: 2.5em;
     font-family: helvetica;
     text-align: center;
 }
 #titulotasar{
-    margin: 0 auto;
+    text-align: center;
+    margin-top: 2em;
 }
 #tasar{
     margin: 0 auto;
